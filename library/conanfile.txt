@@ -1,0 +1,5 @@
+[requires]
+libdeflate/1.8
+
+[generators]
+cmake
